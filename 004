@@ -1,12 +1,13 @@
-#EXTINF:-1 ,TROLLS 1
+#EXTM3U
+#EXTINF:-1 tvg-name="TROLLS 1" tvg-logo="https://pelisimg.online/cover/trolls.jpg" group-title="Animación",TROLLS 1
 https://sv10.pelisfile.net/videos/hls/ka0gqAGAVqqOYGxsJRWc3w/1671944578/26889/d542842c1495f5058b2070d9295cbd6a/EP.0.1.v1.1654362610.360.m3u8
-#EXTINF:-1 ,TROLLS 2
+#EXTINF:-1 tvg-name="TROLLS 2" tvg-logo="https://pelisimg.online/cover/trolls-world-tour-2-1586673722.jpg" group-title="Animación",TROLLS 2
 https://sv05.pelisfile.net/videos/hls/LGYngOUo5SvOZYzEFeipog/1671944657/62494/1ee05e88fea1d08ad9467dfd62502348/EP.0.1.v1.1654360443.720.m3u8
-#EXTINF:-1 ,TROLLS 2 World Tour
+#EXTINF:-1 tvg-name="TROLLS 2 World Tour" tvg-logo="https://pelisimg.online/cover/trolls-2-world-tour-1586805605.jpg" group-title="Animación",TROLLS 2 World Tour
 https://sv07.pelisfile.net/videos/hls/5I0AOxGsVLMSVmXUWhGsxg/1671944703/62526/9f1854d719141a52757120907d6080db/EP.0.1.v1.1654446117.360.m3u8
-#EXTINF:-1 ,TROLLS HOLIDAY IN HARMONY
+#EXTINF:-1 tvg-name="TROLLS HOLIDAY IN HARMONY" tvg-logo="https://pelisimg.online/cover/trolls-holiday-in-harmony-2-1638411367.jpg" group-title="Animación",TROLLS HOLIDAY IN HARMONY
 https://sv01.pelisfile.net/videos/hls/5remZNKvjivM9WQEOCT41A/1671944770/132130/38249690120927d99a42fded5fb3d19b/EP.0.0.v0.1665708679.1080.m3u8
-#EXTINF:-1 ,TROLLS DIAS FELICES
+#EXTINF:-1 tvg-name="TROLLS DIAS FELICES" tvg-logo="https://pelisimg.online/cover/trolls-dias-de-fiesta-1578592806.jpg" group-title="Animación",TROLLS DIAS FELICES
 https://sv05.pelisfile.net/videos/hls/pE8RvZlDWpuF2bezuM4b0w/1671944838/51524/82eef90433e93eaa9fa0a6ad3de27e82/EP.0.1.v0.1656043876.360.m3u8
 
 #EXTINF:-1 ,Freddy vs. Jason
