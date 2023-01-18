@@ -1,6 +1,6 @@
 #EXTM3U list-name="PELICULAS" list-image="https://i.ibb.co/94G21bX/movies.jpg"
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_cazador_y_la_reina_del_hielo-229467838-large.jpg"group-title="",El Cazador y la Reina de Hielo FullHD
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/d2c501c662a24c4a1d509accd5f827b1.webp"group-title="",El Cazador y la Reina de Hielo FullHD
 https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500//ugSquUOt4U0a6xsgWUiOZcr5plz.jpg" tvg-group="PELÍCULAS", 10 Cosas que Odio de Ti
@@ -189,6 +189,9 @@ https://archive.org/download/01_20220323_20220323/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/oNNRCL6QPFc3jE2WqlmuDktrOUl.jpg" tvg-group="PELÍCULAS", El Día Que El Deporte Se Detuvo Documental
 https://archive.org/download/01_20211111_20211111_1920/01.mp4
 
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/fae55476506d6c5334c581b928dea5b7.webp" tvg-group="PELÍCULAS", Escuadrón Suicida 2016
+https://archive.org/download/01_20220505_20220505_2056/01.mp4
+
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/fPJWlhXA2VXf4MlQ3JenVsz1iba.jpg" tvg-group="PELÍCULAS", El Escuadrón Suicida 2021
 https://archive.org/download/01_20210811_20210811_1651/01.mp4
 
@@ -275,9 +278,6 @@ https://archive.org/download/01_20211124_20211124_1804/01.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/hEmpLIyeRGR683s31Q9oCwkSoCi.jpg" tvg-group="PELÍCULAS", Escape Room Torneo de Campeones 2021
 https://archive.org/download/01_20210928/01.mp4
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Escuadr_n_suicida-854624507-large.jpg" tvg-group="PELÍCULAS", Escuadrón Suicida 2016
-https://archive.org/download/01_20220505_20220505_2056/01.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/97WyFdS8pQerysSSGezafXHW5ZH.jpg" tvg-group="PELÍCULAS", Espiral: El Juego del Miedo Continúa
 https://archive.org/download/01_20210715_20210715_1456/01.mp4
@@ -834,10 +834,10 @@ https://archive.org/download/03_20210719_20210719_1700/02.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg" tvg-group="PELÍCULAS", Thor
 https://archive.org/download/03_20210719_20210719_1700/01.mp4
 
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/mK4abejEvRfhAXeyjKQX8KgNfvs.jpg" tvg-group="PELÍCULAS Tiempo", 2021
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/mK4abejEvRfhAXeyjKQX8KgNfvs.jpg" tvg-group="PELÍCULAS", Tiempo 2021
 https://archive.org/download/01_20211031_20211031_1735/01.mp4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Tom_y_Jerry-740894888-large.jpg" tvg-group="INFANTIL", Tom & Jerry 2021
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/db8d9a906bc211ebbc25b1f40778293b.webp" tvg-group="INFANTIL", Tom & Jerry 2021
 https://archive.org/download/03_20210301/03.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/zadokUC1BdBYQcqrBcSKRzUpELN.jpg" tvg-group="PELÍCULAS", Toy Aficiao (2022)
@@ -943,9 +943,9 @@ https://archive.org/download/03_20210313_20210313_1548/01.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.quepeliculaver.com/uploads/2022/09/black-adam-poster-nuevo.jpg", Black Adam DVD-screener
 http://regioplay.xyz/701023/black.adam.baja.calidad.php?f=.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Huevitos_congelados-395213389-large.jpg" tvg-group="INFANTIL", Huevitos congelados
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.esplay.io/movie/cover/original/gBBCBMXKzWRADtliUYfV69aVIcz.webp" tvg-group="INFANTIL", Huevitos congelados
 http://regioplay.xyz/701023/Huevitos.congelados.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Emancipaci_n-196226665-large.jpg", Emancipacion
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.esplay.io/movie/cover/original/zQe7paVC4tSwb8vBwxSqajJ22Ue.webp", Emancipacion
 http://regioplay.xyz/701023/Emancipaci%C3%B3n.2022.lati.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.themoviedb.org/t/p/w500/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg" tvg-group="INFANTIL", Pinocchio 2022
 http://regioplay.xyz/701023/Guillermo.del.Toros.Pinocchio.2022.lati.mp4
