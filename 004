@@ -1,7 +1,7 @@
 #EXTM3U list-name="PELÍCULAS" list-image="https://pbs.twimg.com/profile_images/847843736583360512/8d202Ygs_400x400.jpg"
 
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/dC5iAftPyemqjPZRBjUKPr0ZiQ9.jpg" tvg-group="PELÍCULAS", After almas perdidas 2021
-https://archive.org/download/01_20211124_202111/01.mp4
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/c34f2db16254f844f9fe1132c3dccbed.webp" tvg-group="PELÍCULAS", Absolutamente Todo 2015
+https://www.googleapis.com/drive/v3/files/1-aKwn-X-Ro0lRXVPdXhxHA1CtpWX6zUD?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/snCDylJCTmzyz4fmxkm5MsgjKyJ.jpg" tvg-group="INFANTIL", Agencia secreta de control mágico Netflix 2021
 https://archive.org/download/02_20210329_20210329_2035/02.mp4
@@ -169,7 +169,7 @@ https://archive.org/download/01_20211110_20211110_1547/01.mp4
 https://archive.org/download/01_20210527_20210527_1617/01.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/vThe85YlGE5r7fqEVFePETqnWzk.jpg" tvg-group="PELÍCULAS", Doctor Strange en el Multiverso de la Locura 2022
-https://archive.org/download/01_20220506_20220506_1812/01.mp4
+
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg" tvg-group="PELÍCULAS", Doctor Strange: hechicero supremo
 https://archive.org/download/01_20210719_20210719_1914/01.mp4
@@ -205,7 +205,7 @@ https://archive.org/download/01_20220512_20220512_1944/01.mp4
 https://archive.org/download/01_20211222_20211222_0859/01.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/5JW44QGgpEWx4aWXM0uVSi2xtrI.jpg" tvg-group="PELÍCULAS", El Hombre De Acero
-https://archive.org/download/01_20220505_20220505_1955/01.mp4
+
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/rdx0bIkwxW3EHvWn5kxZBFUT1Am.jpg" tvg-group="PELÍCULAS", El Hombre del Norte 2022
 https://archive.org/download/01_20220512_20220512_1934/01.mp4
@@ -951,6 +951,11 @@ https://archive.org/download/03_20210313_20210313_1548/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500//ugSquUOt4U0a6xsgWUiOZcr5plz.jpg" tvg-group="PELÍCULAS", 10 Cosas que Odio de Ti
 https://archive.org/download/10_20210221/01.mp4
 
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/dC5iAftPyemqjPZRBjUKPr0ZiQ9.jpg" tvg-group="PELÍCULAS", After almas perdidas 2021
+https://archive.org/download/01_20211124_202111/01.mp4
+
+#EXTINF:-1 tvg-logo="https://verpeliculasonline.org/wp-content/uploads/2021/08/AqCOt1cWfKqCepxK7LIdT812idH.jpg" tvg-group="PELÍCULAS",Porky's
+https://ia804708.us.archive.org/33/items/porkys-tu-cine-clasico-online/Porky%27s%20-%20Tu%20Cine%20Cl%C3%A1sico%20Online.mp4?cnt=0
 
 #EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://static.esplay.io/movie/cover/original/cdd9e6a0f68e11eaaf767d5550ed04af.webp", 365 dias
 https://www.googleapis.com/drive/v3/files/1f69NHTR9wp2zinvs-ipDdZ9H5HGzXIyB?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
