@@ -102,9 +102,6 @@ https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%2
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/kgpSvuwiD03vk1gOQ4Pgb2y2wJp.jpg" tvg-group="INFANTIL", Blush AppleTV 2021
 https://archive.org/download/01_20211011_20211011_2327/01.mp4
 
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg" tvg-group="PELÍCULAS", Libros de Sangre hulu 2021
-https://archive.org/download/01_20211128_20211128_2328/01.mp4
-
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/lOW8vBMJqWHWcMxHbigVAytqiBn.jpg" tvg-group="PELÍCULAS", Abejorro
 https://archive.org/download/01_20210707_20210707_1403/01.mp4
 
@@ -176,6 +173,9 @@ https://archive.org/download/01_20220506_20220506_1812/01.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg" tvg-group="PELÍCULAS", Doctor Strange: hechicero supremo
 https://archive.org/download/01_20210719_20210719_1914/01.mp4
+
+#EXTINF:-1 tvg-logo="https://saucedo.files.wordpress.com/2015/01/freebirds_00.jpg" tvg-group="INFANTIL", Dos Pavos en apuros
+https://www.googleapis.com/drive/v3/files/1PDPq1RLJRQABVg86Tra-4I_TT45ZdnA0?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/1Op57Khovv3ANSWn3TvhMStBboV.jpg" tvg-group="PELÍCULAS", Duna 2021
 https://archive.org/download/01_20211031_20211031_1722/01.mp4
@@ -254,6 +254,9 @@ https://archive.org/download/01_20211031_20211031_2017/01.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/2xVUMCDpn58JwY3zdWFmTZwu37f.jpg" tvg-group="INFANTIL", El príncipe olvidado
 https://archive.org/download/14_20210221_202102/13.mp4
+
+#EXTINF:-1 tvg-logo="https://www.rayuela.org/wp-content/uploads/2022/09/Lorax.jpg" tvg-group="INFANTIL", Lorax En busca de la trufula perdida
+https://www.googleapis.com/drive/v3/files/11Hgs6cCHf46pQR7WC8aWBDpGM6zi2I70?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/y6IjiO9J0QtbN6O5VCwhCXxlR01.jpg" tvg-group="INFANTIL", El ritmo de la selva Netflix 2021
 https://archive.org/download/01_20210516_20210516_2228/01.mp4
@@ -503,6 +506,9 @@ https://archive.org/download/01_20211222_20211222_0544/01.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/8RGaU5mEu52DuF5Og1J4ysvy4PR.jpg" tvg-group="PELÍCULAS", Las últimas vacaciones
 https://archive.org/download/25_20210221/21.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg" tvg-group="PELÍCULAS", Libros de Sangre hulu 2021
+https://archive.org/download/01_20211128_20211128_2328/01.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/vD6DxzGLxudNukkfe0A6EuyhyVr.jpg" tvg-group="PELÍCULAS", Liberen A Willy
 https://archive.org/download/25_20210221/22.mp4
