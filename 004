@@ -1,4 +1,4 @@
-#EXTM3U list-name="PELICULAS" list-image="https://i.ibb.co/94G21bX/movies.jpg"
+#EXTM3U list-name="PELÍCULAS" list-image="https://pbs.twimg.com/profile_images/847843736583360512/8d202Ygs_400x400.jpg"
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/dC5iAftPyemqjPZRBjUKPr0ZiQ9.jpg" tvg-group="PELÍCULAS", After almas perdidas 2021
 https://archive.org/download/01_20211124_202111/01.mp4
@@ -525,6 +525,9 @@ https://archive.org/download/01_20210608_20210608_1549/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg" tvg-group="PELÍCULAS", Liga de la Justicia
 https://archive.org/download/01_20220505_20220505_2109/01.mp4
 
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/cMs3pxK1xjse7fJooGZsWAlrk6Q.jpg" tvg-group="PELÍCULAS", Lluvia de Hamburguesas
+https://www.googleapis.com/drive/v3/files/1JW0bsIlOuVwMKjZSOtOavlhZS9XyCFej?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
+
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/wLnAUHnQXacLZs1PJnkq0ns0u2y.jpg" tvg-group="INFANTIL", Lluvia de Hamburguesas 2
 https://archive.org/download/32_20210221_202102/35.mp4
 
@@ -949,114 +952,115 @@ https://archive.org/download/03_20210313_20210313_1548/01.mp4
 https://archive.org/download/10_20210221/01.mp4
 
 
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.quepeliculaver.com/uploads/2022/09/black-adam-poster-nuevo.jpg", Black Adam DVD-screener
-http://regioplay.xyz/701023/black.adam.baja.calidad.php?f=.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.esplay.io/movie/cover/original/gBBCBMXKzWRADtliUYfV69aVIcz.webp" tvg-group="INFANTIL", Huevitos congelados
-http://regioplay.xyz/701023/Huevitos.congelados.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.esplay.io/movie/cover/original/zQe7paVC4tSwb8vBwxSqajJ22Ue.webp", Emancipacion
-http://regioplay.xyz/701023/Emancipaci%C3%B3n.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.themoviedb.org/t/p/w500/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg" tvg-group="INFANTIL", Pinocchio 2022
-http://regioplay.xyz/701023/Guillermo.del.Toros.Pinocchio.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/10/w1280/gqsO5PpQo6VhtrQwaFYaMaZyTKo.jpg", Atrapados en el Cubo
-http://regioplay.xyz/701023/Cube.2021.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/11/UNA-NOCHE-EN-EL-MUSEO-EL-REGRESO-DE-KAHMUNRAH-POSTER_LAS.jpg", Una noche en el museo: El regreso de Kahumunrah | REGIOFLIX
-http://regioplay.xyz/701023/Night.at.the.Museum.Kahmunrah.Rises.Again.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.redd.it/qtbvbiq3mjr71.jpg", Hocus Pocus 2
-http://regioplay.xyz/701023/Hocus.Pocus.2.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nope-poster-fotogramas-1626980546.jpeg", NOPE
-http://regioplay.xyz/701023/Nope.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.quepeliculaver.com/uploads/2022/06/nuevo-poster-dc-liga-de-supermascotas-en-exclusiva.jpg", Supermascotas
-http://regioplay.xyz/701023/DC.League.of.Super.Pets.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.ecartelera.com/carteles/15600/15658/001.jpg", Mentada de padre
-http://regioplay.xyz/701023/Mentada.de.padre.2019.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/y_como_es_el.jpg", Y como es el?
-http://regioplay.xyz/701023/Backseat.Driver.2020..lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Luck-722224530-large.jpg" tvg-group="INFANTIL", LUCK
-http://regioplay.xyz/701023/Luck.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/365_d_as_m_s-455880181-mmed.jpg", 365 dias mas 2022
-http://regioplay.xyz/701023/365.Days.Part.III.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/5f/73/6c/5f736c33f89d22a0f58c159e8d64172e.jpg" tvg-group="INFANTIL", Las Leyendas: El Origen
-http://regioplay.xyz/701023/Las.leyendas.El.origen.2021.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/FTVLioFXwAA7YwM.jpg", Predator: Prey
-http://regioplay.xyz/701023/Predator_Prey_SrRegio.Net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/minions-the-rise-of-gru/images/regions/ar/onesheet.jpg" tvg-group="INFANTIL", Minions Nace un villano 2022
-http://regioplay.xyz/701023/Minions.NaceUnVillano.SrRegio.Net.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/812ofyhW8hL._AC_SY679_.jpg" tvg-group="INFANTIL", LightYear 2022
-http://regioplay.xyz/701023/lightyear.2022.SRREGIO.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-black-phone/images/regions/ar/onesheet.jpg", Telefono negro
-http://regioplay.xyz/701023/El.Telefono.Negro.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/jurassicpark/images/2/2d/Jurassic_World_Dominion_Poster.png/revision/latest?cb=20220612202824", Jurassic World Dominio
-http://regioplay.xyz/701023/JurassicWorldDominio.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://d2rbybg5ibx87t.cloudfront.net/images/621398/original.jpeg?1650310006", Father Stu
-http://regioplay.xyz/701023/Father.Stu.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/16/09/52/4570178.jpg", Fresh
-http://regioplay.xyz/701023/Fresh.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.cinelinx.com/wp-content/uploads/2022/04/Chip-n-Dale-Poster.jpg" tvg-group="INFANTIL", Chip and Dale 2022
-http://regioplay.xyz/701023/Chip.n.Dale.Rescue.Rangers.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NkNjdlODMtZTZiYi00OWUwLTliNDAtOGZhMThjNmVhYmQxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", Memory: Asesino sin memoria
-http://regioplay.xyz/701023/Memory.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fl0u5uixwaazev7_cphe.jpg" tvg-group="INFANTIL", Sonic 2
-http://regioplay.xyz/701023/Sonic.2.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/38508-429524-20220118093437.jpg", Que despadre
-http://regioplay.xyz/701023/Qu%C3%A9.despadre.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2021/12/Uncharted-Poster.jpg?resize=1280%2C1565&quality=80&ssl=1", Uncharted 2022
-http://regioplay.xyz/701023/Uncharted.2022.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://iforum-sg.c.hihonor.com/latin/latin_data/images/2022/4/23/d8eb4de1-f6a0-402c-9d67-d56cd3dbf5d0.jpg", 365 dias Aquel dia
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://static.esplay.io/movie/cover/original/cdd9e6a0f68e11eaaf767d5550ed04af.webp", 365 dias
+https://www.googleapis.com/drive/v3/files/1f69NHTR9wp2zinvs-ipDdZ9H5HGzXIyB?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://iforum-sg.c.hihonor.com/latin/latin_data/images/2022/4/23/d8eb4de1-f6a0-402c-9d67-d56cd3dbf5d0.jpg", 365 dias Aquel dia
 http://regioplay.xyz/701023/365.Dias.Aquel.dia.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://img.ecartelera.com/noticias/fotos/66900/66992/2.jpg", Spider Man No Way Home 2021
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://static.esplay.io/movie/cover/original/mwcII5bXMeMTKyCejPuBPBTjmxu.webp", 365 dias mas
+http://regioplay.xyz/701023/365.Days.Part.III.2022.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.quepeliculaver.com/uploads/2022/09/black-adam-poster-nuevo.jpg", Black Adam DVD-screener
+http://regioplay.xyz/701023/black.adam.baja.calidad.php?f=.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://static.esplay.io/movie/cover/original/gBBCBMXKzWRADtliUYfV69aVIcz.webp" tvg-group="INFANTIL", Huevitos congelados
+http://regioplay.xyz/701023/Huevitos.congelados.2022.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://static.esplay.io/movie/cover/original/zQe7paVC4tSwb8vBwxSqajJ22Ue.webp", Emancipacion
+http://regioplay.xyz/701023/Emancipaci%C3%B3n.2022.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.themoviedb.org/t/p/w500/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg" tvg-group="INFANTIL", Pinocchio 2022
+http://regioplay.xyz/701023/Guillermo.del.Toros.Pinocchio.2022.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/10/w1280/gqsO5PpQo6VhtrQwaFYaMaZyTKo.jpg", Atrapados en el Cubo
+http://regioplay.xyz/701023/Cube.2021.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/11/UNA-NOCHE-EN-EL-MUSEO-EL-REGRESO-DE-KAHMUNRAH-POSTER_LAS.jpg", Una noche en el museo: El regreso de Kahumunrah | REGIOFLIX
+http://regioplay.xyz/701023/Night.at.the.Museum.Kahmunrah.Rises.Again.2022.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://i.redd.it/qtbvbiq3mjr71.jpg", Hocus Pocus 2
+http://regioplay.xyz/701023/Hocus.Pocus.2.2022.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nope-poster-fotogramas-1626980546.jpeg", NOPE
+http://regioplay.xyz/701023/Nope.2022.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.quepeliculaver.com/uploads/2022/06/nuevo-poster-dc-liga-de-supermascotas-en-exclusiva.jpg", Supermascotas
+http://regioplay.xyz/701023/DC.League.of.Super.Pets.2022.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.ecartelera.com/carteles/15600/15658/001.jpg", Mentada de padre
+http://regioplay.xyz/701023/Mentada.de.padre.2019.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/y_como_es_el.jpg", Y como es el?
+http://regioplay.xyz/701023/Backseat.Driver.2020..lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://pics.filmaffinity.com/Luck-722224530-large.jpg" tvg-group="INFANTIL", LUCK
+http://regioplay.xyz/701023/Luck.2022.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://i.pinimg.com/736x/5f/73/6c/5f736c33f89d22a0f58c159e8d64172e.jpg" tvg-group="INFANTIL", Las Leyendas: El Origen
+http://regioplay.xyz/701023/Las.leyendas.El.origen.2021.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://pbs.twimg.com/media/FTVLioFXwAA7YwM.jpg", Predator: Prey
+http://regioplay.xyz/701023/Predator_Prey_SrRegio.Net.mkv
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/minions-the-rise-of-gru/images/regions/ar/onesheet.jpg" tvg-group="INFANTIL", Minions Nace un villano 2022
+http://regioplay.xyz/701023/Minions.NaceUnVillano.SrRegio.Net.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://m.media-amazon.com/images/I/812ofyhW8hL._AC_SY679_.jpg" tvg-group="INFANTIL", LightYear 2022
+http://regioplay.xyz/701023/lightyear.2022.SRREGIO.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-black-phone/images/regions/ar/onesheet.jpg", Telefono negro
+http://regioplay.xyz/701023/El.Telefono.Negro.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://static.wikia.nocookie.net/jurassicpark/images/2/2d/Jurassic_World_Dominion_Poster.png/revision/latest?cb=20220612202824", Jurassic World Dominio
+http://regioplay.xyz/701023/JurassicWorldDominio.mkv
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://d2rbybg5ibx87t.cloudfront.net/images/621398/original.jpeg?1650310006", Father Stu
+http://regioplay.xyz/701023/Father.Stu.2022.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/16/09/52/4570178.jpg", Fresh
+http://regioplay.xyz/701023/Fresh.2022.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.cinelinx.com/wp-content/uploads/2022/04/Chip-n-Dale-Poster.jpg" tvg-group="INFANTIL", Chip and Dale 2022
+http://regioplay.xyz/701023/Chip.n.Dale.Rescue.Rangers.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NkNjdlODMtZTZiYi00OWUwLTliNDAtOGZhMThjNmVhYmQxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", Memory: Asesino sin memoria
+http://regioplay.xyz/701023/Memory.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fl0u5uixwaazev7_cphe.jpg" tvg-group="INFANTIL", Sonic 2
+http://regioplay.xyz/701023/Sonic.2.2022.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/38508-429524-20220118093437.jpg", Que despadre
+http://regioplay.xyz/701023/Qu%C3%A9.despadre.2022.lati.mp4
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2021/12/Uncharted-Poster.jpg?resize=1280%2C1565&quality=80&ssl=1", Uncharted 2022
+http://regioplay.xyz/701023/Uncharted.2022.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://img.ecartelera.com/noticias/fotos/66900/66992/2.jpg", Spider Man No Way Home 2021
 http://regioplay.xyz/701023/SpiderManNoWayHome2021.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/scream-scream-5-2497975.jpg?itok=1QG1ZnrG", Scream 5 2022
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/scream-scream-5-2497975.jpg?itok=1QG1ZnrG", Scream 5 2022
 http://regioplay.xyz/701023/Scream5Grita.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg" tvg-group="INFANTIL", Clifford El Gran Perro Rojo
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg" tvg-group="INFANTIL", Clifford El Gran Perro Rojo
 http://regioplay.xyz/701023/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/marvel/images/9/9a/Eternals_%28film%29_poster_002.png/revision/latest?cb=20210819165934&path-prefix=es", Eternals
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://static.wikia.nocookie.net/marvel/images/9/9a/Eternals_%28film%29_poster_002.png/revision/latest?cb=20210819165934&path-prefix=es", Eternals
 http://regioplay.xyz/701023/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado
 http://regioplay.xyz/701023/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/A_Canta_2-948015591-large.jpg" tvg-group="INFANTIL", Canta 2
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://pics.filmaffinity.com/A_Canta_2-948015591-large.jpg" tvg-group="INFANTIL", Canta 2
 http://regioplay.xyz/701023/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://hiramnoriega.com/wp-content/uploads/2021/12/6567567765765765.jpg", La casa de los abuelos
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://hiramnoriega.com/wp-content/uploads/2021/12/6567567765765765.jpg", La casa de los abuelos
 http://regioplay.xyz/701023/The.whole.truth.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/09/EL-DIARIO-DE-GREG-POSTER.jpg" tvg-group="INFANTIL", El diario de Greg
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/09/EL-DIARIO-DE-GREG-POSTER.jpg" tvg-group="INFANTIL", El diario de Greg
 http://regioplay.xyz/701023/Diary.of.a.wimpy.kid.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.riendoporlavida.com/wp-content/uploads/2019/04/POSTER-FRANCO-635x1024.jpg", Franco Escamilla:Bienvenido al mundo
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.riendoporlavida.com/wp-content/uploads/2019/04/POSTER-FRANCO-635x1024.jpg", Franco Escamilla:Bienvenido al mundo
 http://regioplay.xyz/php/SR_REGIO_526022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnage liberado
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnage liberado
 http://regioplay.xyz/701023/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg" tvg-group="INFANTIL", Por Fin Solo en Casa
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg" tvg-group="INFANTIL", Por Fin Solo en Casa
 http://regioplay.xyz/701023/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alerta-roja-ftogramas-1634823584.jpg", Alerta Roja
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alerta-roja-ftogramas-1634823584.jpg", Alerta Roja
 http://regioplay.xyz/701023/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/04/poster-shang-chi-leyenda-diez-anillos-2303799.jpg?itok=bA7yKza5", Shang Chi La Leyenda de los 10 anillos
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/04/poster-shang-chi-leyenda-diez-anillos-2303799.jpg?itok=bA7yKza5", Shang Chi La Leyenda de los 10 anillos
 http://regioplay.xyz/701023/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.elseptimoarte.net/carteles/a_un_paso_de_mi_89914.jpg", A un paso de mi
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.elseptimoarte.net/carteles/a_un_paso_de_mi_89914.jpg", A un paso de mi
 http://regioplay.xyz/701023/A.un.paso.de.m%C3%AD.2021.1080p-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThkMDZiNGYtYmY2OC00ODQ3LTg4MzktZTY1YmI3ZjkzYWNhXkEyXkFqcGdeQXVyNjczMzgwMDg@._V1_.jpg", No body sleeps in the woods tonight
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThkMDZiNGYtYmY2OC00ODQ3LTg4MzktZTY1YmI3ZjkzYWNhXkEyXkFqcGdeQXVyNjczMzgwMDg@._V1_.jpg", No body sleeps in the woods tonight
 http://regioplay.xyz/701023/Nobody.Sleeps.In.The.Woods.Tonight.2.2021.1080P.Dual.Lat.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cineuropa.org/Galleries/364/828/poster_big.jpg", Polaroid
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://cineuropa.org/Galleries/364/828/poster_big.jpg", Polaroid
 http://regioplay.xyz/701023/Polaroid.2019.1080P.Dual.Lat.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://br.web.img3.acsta.net/pictures/21/09/29/18/28/3513458.jpg" tvg-group="INFANTIL", Una momia en Halloween
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://br.web.img3.acsta.net/pictures/21/09/29/18/28/3513458.jpg" tvg-group="INFANTIL", Una momia en Halloween
 http://regioplay.xyz/701023/Una.Momia.En.Halloween.%282021%29.720P.Dual.Lat.srregio.net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3MDQ2NTE1NF5BMl5BanBnXkFtZTgwMTk5NzE5NzM@._V1_FMjpg_UX1000_.jpg", Isabelle 2018
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3MDQ2NTE1NF5BMl5BanBnXkFtZTgwMTk5NzE5NzM@._V1_FMjpg_UX1000_.jpg", Isabelle 2018
 http://regioplay.xyz/701023/Isabelle.2018.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/01/halloween-kills-2209579.jpg?itok=bskTW8To", Halloween Kills 2021
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/01/halloween-kills-2209579.jpg?itok=bskTW8To", Halloween Kills 2021
 http://regioplay.xyz/701023/Halloween.Kills.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/fguy1.jpg?resize=770%2C1100&ssl=1", Free Guy
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/fguy1.jpg?resize=770%2C1100&ssl=1", Free Guy
 http://regioplay.xyz/701023/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/calle-terror.jpg?resize=800%2C1187&ssl=1", La calle del terror P1
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/calle-terror.jpg?resize=800%2C1187&ssl=1", La calle del terror P1
 http://regioplay.xyz/701023/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl=1", No respires 2
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl=1", No respires 2
 http://regioplay.xyz/701023/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/You_re_Not_Alone-709818429-large.jpg", You´re not alone
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://pics.filmaffinity.com/You_re_Not_Alone-709818429-large.jpg", You´re not alone
 http://regioplay.xyz/701023/You%27re.not.alone..2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9
 http://regioplay.xyz/701023/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/cinemedios.com/wp-content/uploads/2021/07/fecha-de-estreno-un-rescate-de-huevitos.jpeg?resize=640%2C831&ssl=1", Un rescate de huevitos
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://i2.wp.com/cinemedios.com/wp-content/uploads/2021/07/fecha-de-estreno-un-rescate-de-huevitos.jpeg?resize=640%2C831&ssl=1", Un rescate de huevitos
 http://regioplay.xyz/701023/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36404-482709-20210706093527.jpg", Space Jam Una Nueva Era
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36404-482709-20210706093527.jpg", Space Jam Una Nueva Era
 http://regioplay.xyz/701023/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg", COCO
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg", COCO
 http://regioplay.xyz/701023/coco.mkv
 
 
