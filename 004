@@ -1,11 +1,5 @@
 #EXTM3U list-name="PELICULAS" list-image="https://i.ibb.co/94G21bX/movies.jpg"
 
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/d2c501c662a24c4a1d509accd5f827b1.webp"group-title="",El Cazador y la Reina de Hielo FullHD
-https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
-
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500//ugSquUOt4U0a6xsgWUiOZcr5plz.jpg" tvg-group="PELÍCULAS", 10 Cosas que Odio de Ti
-https://archive.org/download/10_20210221/01.mp4
-
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/dC5iAftPyemqjPZRBjUKPr0ZiQ9.jpg" tvg-group="PELÍCULAS", After almas perdidas 2021
 https://archive.org/download/01_20211124_202111/01.mp4
 
@@ -102,6 +96,9 @@ https://archive.org/download/01_20210719_20210719_1648/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/aXDkg5obS59srKM2IefPIZMGF4b.jpg" tvg-group="PELÍCULAS", Blancanieves y la leyenda del cazador
 https://archive.org/download/10_20210221/07.mp4
 
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/d2c501c662a24c4a1d509accd5f827b1.webp"group-title="",El Cazador y la Reina de Hielo FullHD
+https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/kgpSvuwiD03vk1gOQ4Pgb2y2wJp.jpg" tvg-group="INFANTIL", Blush AppleTV 2021
 https://archive.org/download/01_20211011_20211011_2327/01.mp4
 
@@ -140,6 +137,9 @@ https://archive.org/download/01_20210307_20210307_1612/01.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg" tvg-group="PELÍCULAS", Cherry AppleTV 2021
 https://archive.org/download/01_20210409_20210409_1648/01.mp4
+
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/115ad5376b2312b5f4ec944d0e5f117d.webp" tvg-group="INFANTIL", CJ7
+https://www.googleapis.com/drive/v3/files/1G0MHsLzzJiUMfuVIb5TNj8-A0HB3VcSF?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/nIWGp0jQzHvX6H3vEdPwOKwr931.jpg" tvg-group="INFANTIL", Navidad ...Otra vez 2021
 https://archive.org/download/01_20211222_20211222_1123/01.mp4
@@ -633,7 +633,7 @@ https://archive.org/download/01_20211222_20211222_0328/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/bZACZg9CKTIgjP7NdpvQJQBPUV5.jpg" tvg-group="PELÍCULAS", Oslo 2021
 https://archive.org/download/01_20210608_20210608_1554/01.mp4
 
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/ybRF4TLvBsdVyUZGaPaoC0pd3TG.jpg" tvg-group="PELICULAS", Ouija la reunión - Ouija Deadly Reunion (2021)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/ybRF4TLvBsdVyUZGaPaoC0pd3TG.jpg" tvg-group="PELÍCULAS", Ouija la reunión - Ouija Deadly Reunion (2021)
 https://archive.org/download/01_20220503_20220503_1810/01.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/yDtLlmNvjJ3GagL9zREZDJmpUX7.jpg" tvg-group="PELÍCULAS", Documental Nuestros Pueblos
@@ -938,6 +938,9 @@ https://archive.org/download/01_20210708_20210708/01.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/fSupXsU5tTga9WYxbULEamu6ZW.jpg" tvg-group="PELÍCULAS", ¡Hoy sí! Netflix 2021
 https://archive.org/download/03_20210313_20210313_1548/01.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500//ugSquUOt4U0a6xsgWUiOZcr5plz.jpg" tvg-group="PELÍCULAS", 10 Cosas que Odio de Ti
+https://archive.org/download/10_20210221/01.mp4
 
 
 
