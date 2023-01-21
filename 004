@@ -747,6 +747,9 @@ https://archive.org/download/01_20211112_20211112_1440/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/4f5Rz8uYpcTvo1hHKcQRSaay0ek.jpg" tvg-group="PELÍCULAS", Shazam
 https://archive.org/download/01_20220505_20220505_2130/01.mp4
 
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/893bc7d43df0eb3abb41354004495c09.webp" tvg-group="PELÍCULAS", Shaolin Soccer 2001
+https://ia804705.us.archive.org/13/items/sh-40-l-1-ns-0-72p/SH40L1NS0-72p.mp4
+
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg" tvg-group="INFANTIL", Shrek 2
 https://archive.org/download/01_20210708_20210708_1429/01.mp4
 
@@ -962,7 +965,22 @@ https://ia904709.us.archive.org/22/items/trolls-dias-de-fiesta-2017/Trolls-%20D%
 https://ia904703.us.archive.org/10/items/trolls-2-gira-mundial-2020_202301/Trolls%202-%20Gira%20mundial%20%282020%29.mp4
 #EXTINF:-1 tvg-name="TROLLS HOLIDAY IN HARMONY" tvg-logo="https://static.esplay.io/movie/cover/original/z5ge6Cr8lnElNIYU7fn2WoMg7SD.webp" group-title="INFANTIL",TROLLS Festividades en armonía 2021
 https://ia904706.us.archive.org/11/items/trolls-festividades-en-armonia-2021/Trolls-%20Festividades%20en%20armon%C3%ADa%20%282021%29.mp4
-#EXTINF:-1 tvg-logo="https://verpeliculasonline.org/wp-content/uploads/2021/08/AqCOt1cWfKqCepxK7LIdT812idH.jpg" tvg-group="INFANTIL",Porky's
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/9ca42d4156ec943aeb1620cf1a04557f.webp" tvg-group="PELÍCULAS",Chucky El Muñeco Diabólico 1988
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/34654a6eb54caf3c822d59ea8d7ad2ca.webp" tvg-group="PELÍCULAS",Chucky 2 El Muñeco Diabólico 1990
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/b022b4be0c90d4013081f402c393f2f5.webp" tvg-group="PELÍCULAS",Chucky 3 El Muñeco Diabólico 1991
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/b44b3d8aed73c804bbf6fb9c3fa7950b.webp" tvg-group="PELÍCULAS",La Novia de Chucky 1998
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/8ca86fbadc9101b0452d7d03e78becb9.webp" tvg-group="PELÍCULAS",El Hijo de Chucky 2004
+https://ia804702.us.archive.org/19/items/la-semilla-de-chucky/La%20semilla%20de%20Chucky.mp4
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/603b4b3f1fb58940673c70ab17be1e0e.webp" tvg-group="PELÍCULAS",La Maldición de Chucky 2013
+https://ia600406.us.archive.org/12/items/la-maldicion-de-chucky-2013/La%20Maldici%C3%B3n%20de%20Chucky%20%282013%29.mp4
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/on2Q5qroYiJ8MxhuZmdBd7rYNOa.webp" tvg-group="PELÍCULAS",El Culto de Chucky 2017
+
+
+#EXTINF:-1 tvg-logo="https://verpeliculasonline.org/wp-content/uploads/2021/08/AqCOt1cWfKqCepxK7LIdT812idH.jpg" tvg-group="PELÍCULAS",Porky's
 https://ia804708.us.archive.org/33/items/porkys-tu-cine-clasico-online/Porky%27s%20-%20Tu%20Cine%20Cl%C3%A1sico%20Online.mp4?cnt=0
 
 #EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://static.esplay.io/movie/cover/original/cdd9e6a0f68e11eaaf767d5550ed04af.webp", 365 dias
@@ -1136,14 +1154,10 @@ http://bit.ly/MASCOTAHUMANA
 http://bit.ly/MRAQCSAND
 #EXTINF:-1 tvg-logo=""group-title="",ESTRENOS:Sand Castle (2017)
 http://bit.ly/MRAQCASTI
-#EXTINF:-1 tvg-logo=""group-title="",CHUCKY 1
-https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
-#EXTINF:-1 tvg-logo=""group-title="",CHUCKY 2
-https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
-#EXTINF:-1 tvg-logo=""group-title="",CHUCKY 3
-https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
-#EXTINF:-1 tvg-logo=""group-title="",LA NOVIA DE CHUCKY
-https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+
+
+
+
 #EXTINF:-1 tvg-logo=""group-title="",EN EL CORAZON DEL MAR
 https://goo.gl/4BqODN
 #EXTINF:-1 tvg-logo=""group-title="",HORAS CONTADAS
