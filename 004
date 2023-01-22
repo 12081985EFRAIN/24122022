@@ -525,7 +525,7 @@ https://archive.org/download/01_20210608_20210608_1549/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg" tvg-group="PELÍCULAS", Liga de la Justicia
 https://archive.org/download/01_20220505_20220505_2109/01.mp4
 
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/cMs3pxK1xjse7fJooGZsWAlrk6Q.jpg" tvg-group="PELÍCULAS", Lluvia de Hamburguesas
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/cMs3pxK1xjse7fJooGZsWAlrk6Q.jpg" tvg-group="INFANTIL", Lluvia de Hamburguesas
 https://www.googleapis.com/drive/v3/files/1JW0bsIlOuVwMKjZSOtOavlhZS9XyCFej?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/wLnAUHnQXacLZs1PJnkq0ns0u2y.jpg" tvg-group="INFANTIL", Lluvia de Hamburguesas 2
@@ -761,6 +761,12 @@ https://archive.org/download/01_20210506_20210506/01.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/rDfYClNuplM26KwPbyFAE7CDZo4.jpg" tvg-group="PELÍCULAS", Sin tiempo para morir No Time to Die 2021
 https://archive.org/download/01_20211110_20211110_1444/01.mp4
+
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/0c067e13010406936b060cc2454ecc82.webp" tvg-group="INFANTIL",Sing: Ven y Canta 2016
+https://www.googleapis.com/drive/v3/files/1Bxwlef1IXPum2XW8UAqyheeeLGJw2sEL?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
+
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/gR2o0LBWq32oGdIVqeIloO3KDxY.webp" tvg-group="INFANTIL",Sing 2: ¡Ven y canta de nuevo!
+http://regioplay.xyz/701023/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/uboar85WH92Q5Ct2Y0B2YEdYRNF.jpg" tvg-group="PELÍCULAS", Soldado de Élite (The Contractor) 2022
 https://archive.org/download/01_20220503_20220503_1908/01.mp4
@@ -1011,7 +1017,7 @@ http://regioplay.xyz/701023/DC.League.of.Super.Pets.2022.lati.mp4
 http://regioplay.xyz/701023/Mentada.de.padre.2019.lati.mp4
 #EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/y_como_es_el.jpg", Y como es el?
 http://regioplay.xyz/701023/Backseat.Driver.2020..lati.mp4
-#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://pics.filmaffinity.com/Luck-722224530-large.jpg" tvg-group="INFANTIL", LUCK
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://static.esplay.io/movie/cover/original/q5v13A4zZ0ffXqDQMfxKcNu1xzQ.webp" tvg-group="INFANTIL", LUCK
 http://regioplay.xyz/701023/Luck.2022.lati.mp4
 #EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://i.pinimg.com/736x/5f/73/6c/5f736c33f89d22a0f58c159e8d64172e.jpg" tvg-group="INFANTIL", Las Leyendas: El Origen
 http://regioplay.xyz/701023/Las.leyendas.El.origen.2021.lati.mp4
@@ -1049,8 +1055,6 @@ http://regioplay.xyz/701023/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
 http://regioplay.xyz/701023/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado
 http://regioplay.xyz/701023/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://pics.filmaffinity.com/A_Canta_2-948015591-large.jpg" tvg-group="INFANTIL", Canta 2
-http://regioplay.xyz/701023/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://hiramnoriega.com/wp-content/uploads/2021/12/6567567765765765.jpg", La casa de los abuelos
 http://regioplay.xyz/701023/The.whole.truth.2021.1080p-dual-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/09/EL-DIARIO-DE-GREG-POSTER.jpg" tvg-group="INFANTIL", El diario de Greg
