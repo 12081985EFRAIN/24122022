@@ -1,5 +1,3 @@
-#EXTM3U list-name="PELÍCULAS" list-image="https://pbs.twimg.com/profile_images/847843736583360512/8d202Ygs_400x400.jpg"
-
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/c34f2db16254f844f9fe1132c3dccbed.webp" group-title=“PELÍCULAS”, Absolutamente Todo 2015
 https://www.googleapis.com/drive/v3/files/1-aKwn-X-Ro0lRXVPdXhxHA1CtpWX6zUD?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 
@@ -1107,9 +1105,9 @@ http://regioplay.xyz/701023/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
 http://regioplay.xyz/701023/coco.mkv
 
 
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/10/w1280/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg" group-title=“PELÍCULAS”,007 Espectro
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/10/w1280/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg" group-title=“PEPE”,007 Espectro
 http://vod.tuxchannel.mx/peliculas4k/spectre.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/5/w1280/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg" group-title=“PELÍCULAS”,Alien Pacto
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/5/w1280/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg" group-title=“PEPE”,Alien Pacto
 http://vod.tuxchannel.mx/peliculas4k/alien%20covenant.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/12/w1280/njB8UnVBp6GznmIzlTNm51LwiHR.jpg" group-title=“PELÍCULAS”,Assassins Credo
 http://vod.tuxchannel.mx/peliculas4k/assassins%20creed.mkv
