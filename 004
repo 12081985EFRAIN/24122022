@@ -963,6 +963,22 @@ https://archive.org/download/10_20210221/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/dC5iAftPyemqjPZRBjUKPr0ZiQ9.jpg" tvg-group="PELÍCULAS", After almas perdidas 2021
 https://archive.org/download/01_20211124_202111/01.mp4
 
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/70ba1046584e77be6272c420b4b8f5ad.webp" tvg-group="PELÍCULAS", Interestelar 2014
+https://www.googleapis.com/drive/v3/files/15Wl8eusvPsMRn1JMYLggkBHu1XTFvhCX?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
+
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/f7dd3323b9093ed484fe9be9ddd3f292.webp"group-title="PELÍCULAS",WILLOW 1988
+https://www.googleapis.com/drive/v3/files/1kUy1GzNkd7a0rQPPMsUncOQa3HeC8DhE?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
+
+#EXTINF:-1 tvg-logo="https://cinecalidad.run/wp-content/webp-express/webp-images/uploads/2022/11/WILLOW-4K-3.jpg.webp"group-title="WILLOW",Willow01
+https://www.googleapis.com/drive/v3/files/1GAacF95GIasKDKXKyUCO-90G9L53PqD6?alt=media&key=AIzaSyDsfwMPekxrJDvbOvBI-XIfWribg0fHwd0
+#EXTINF:-1 tvg-logo="https://cinecalidad.run/wp-content/webp-express/webp-images/uploads/2022/11/WILLOW-4K-3.jpg.webp"group-title="WILLOW",Willow02
+#EXTINF:-1 tvg-logo="https://cinecalidad.run/wp-content/webp-express/webp-images/uploads/2022/11/WILLOW-4K-3.jpg.webp"group-title="WILLOW",Willow03
+#EXTINF:-1 tvg-logo="https://cinecalidad.run/wp-content/webp-express/webp-images/uploads/2022/11/WILLOW-4K-3.jpg.webp"group-title="WILLOW",Willow04
+#EXTINF:-1 tvg-logo="https://cinecalidad.run/wp-content/webp-express/webp-images/uploads/2022/11/WILLOW-4K-3.jpg.webp"group-title="WILLOW",Willow05
+#EXTINF:-1 tvg-logo="https://cinecalidad.run/wp-content/webp-express/webp-images/uploads/2022/11/WILLOW-4K-3.jpg.webp"group-title="WILLOW",Willow06
+#EXTINF:-1 tvg-logo="https://cinecalidad.run/wp-content/webp-express/webp-images/uploads/2022/11/WILLOW-4K-3.jpg.webp"group-title="WILLOW",Willow07
+#EXTINF:-1 tvg-logo="https://cinecalidad.run/wp-content/webp-express/webp-images/uploads/2022/11/WILLOW-4K-3.jpg.webp"group-title="WILLOW",Willow08
+
 #EXTINF:-1 tvg-name="TROLLS 1" tvg-logo="https://pelisimg.online/cover/trolls.jpg" group-title="INFANTIL",TROLLS 2016
 https://ia904708.us.archive.org/11/items/trolls.-2016.1080p-dual-lat/Trolls.2016.1080p-dual-lat.mp4
 #EXTINF:-1 tvg-name="TROLLS 2" tvg-logo="https://static.esplay.io/movie/cover/original/e0725623f844cf9d465bb64fb563b007.webp" group-title="INFANTIL",TROLLS dias de fiesta 2017
@@ -996,6 +1012,7 @@ http://regioplay.xyz/701023/365.Days.Part.III.2022.lati.mp4
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/520180fdc2d0edef3c7e65ef463b36b8.webp"group-title="PELÍCULAS",Cincuenta sombras de Grey 2015
 https://ia800305.us.archive.org/2/items/50SombrasDeGrey_201505/50%20Sombras%20De%20Grey.mp4
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/612ab53823208d1f2f738b3ec63f2ba6.webp"group-title="PELÍCULAS",Cincuenta Sombras Muy Oscuras 2016
+
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/608dce0181499af4c27a26a1e408ae4b.webp"group-title="PELÍCULAS",Cincuenta Sombras Más Oscuras 2017
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/ce06837c5eef0f78bbd08441b8511cd7.webp"group-title="PELÍCULAS",Cincuenta Sombras Liberadas 2018
 
@@ -1115,8 +1132,8 @@ https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg"group-title="PELÍCULAS",Terminus
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Deadpool
-https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/ceb89ce5db9b3de3c1c3906821f165fd.webp"group-title="PELÍCULAS",Deadpool
+https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
 #EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Intensamente | SRREGIO.NET
 https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 #EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",JIGSAW VIII | SRREGIO.NET
@@ -1141,8 +1158,7 @@ https://archive.org/download/080520712070508aCh/08052071.mkv?Pelixmax1.mp4
 https://archive.org/download/08052017Ch2320170508/08052017_ch23.mkv?Pelixmax1.mp4
 #EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Prometeus 2012 HD
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/ceb89ce5db9b3de3c1c3906821f165fd.webp"group-title="PELÍCULAS",Deadpool
-https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+
 #EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",SAW VIII SUBTITULADO
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 #EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",ESTRENOS:LA BELLA DURMIENTE (CLASICA)
@@ -1314,112 +1330,112 @@ https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
 #EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Volver al Futuro |
 https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 
-#EXTINF:6489,0 - Documental Sahara - https://archive.org/details/NoLoNoSRREGIO_20180212
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Documental Sahara
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:0, The Cloverfield Paradox |
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",The Cloverfield Paradox
 #EXTVLCOPT:network-caching=1000
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:0, Terminus |
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Terminus
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:0, Deadpool |
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Deadpool
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
-#EXTINF:0, JIGSAW VIII |
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",JIGSAW VIII
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:0, Redada Asesina |
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Redada Asesina
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:0, SAW VIII SUBTITULADO |
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",SAW VIII SUBTITULADO
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-#EXTINF:0, La Fuerza De La Ilusion | 1fgcanz
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",La Fuerza De La Ilusion
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:0, Cuando nos Conocimos | 1fgcanz
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Cuando nos Conocimos
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:0, La Forma del Agua SUBTITULADO | 1fgcanz
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",La Forma del Agua
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
-#EXTINF:0,EL MAL DENTRO (2017)
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",EL MAL DENTRO (2017)
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
-#EXTINF:0,  ANGRY BIRDS
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",ANGRY BIRDS
 #EXTVLCOPT:network-caching=1000
 http://cecegeek@goo.gl/3KGMLf
-#EXTINF:0, ESTRENOS: Sandy Wexler (2017)
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Sandy Wexler (2017)
 #EXTVLCOPT:network-caching=1000
 http://bit.ly/MRAQCSAND
-#EXTINF:0, ESTRENOS: THE MINE (2017)
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",ESTRENOS: THE MINE (2017)
 #EXTVLCOPT:network-caching=1000
 http://bit.ly/THEMINE
-#EXTINF:0, VOD FREE: MATRIX
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",MATRIX
 #EXTVLCOPT:network-caching=1000
 http://www.deadlyblogger.com/NewRelease/matrix1.mp4
-#EXTINF:0, VOD FREE: SAHARA
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",SAHARA
 #EXTVLCOPT:network-caching=1000
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
-#EXTINF:0,Varias Lat:Volver al Futuro III
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Volver al Futuro III
 #EXTVLCOPT:network-caching=1000
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:0,SACRIFICIO www.achoAPPS.com
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",SACRIFICIO
 #EXTVLCOPT:network-caching=1000
 http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?disco
-#EXTINF:0,  LA BELLA DURMIENTE (CLASICA)
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",LA BELLA DURMIENTE (CLASICA)
 #EXTVLCOPT:network-caching=1000
 http://bit.ly/LABELLAMOVIE
-#EXTINF:0,  MASCOTA HUMANA (2016)
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",MASCOTA HUMANA (2016)
 #EXTVLCOPT:network-caching=1000
 http://bit.ly/MASCOTAHUMANA
-#EXTINF:0,  VOLVER AL FUTURO3 www.achoAPPS.com
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",VOLVER AL FUTURO3
 #EXTVLCOPT:network-caching=1000
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:0,  CASTILLO DE ARENA (2017)
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",CASTILLO DE ARENA (2017)
 #EXTVLCOPT:network-caching=1000
 http://bit.ly/MRAQCASTI
-#EXTINF:0,Chucky el MuÒeco Diabolico II
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Chucky el MuÒeco Diabolico II
 #EXTVLCOPT:network-caching=1000
 http://bit.ly/MRAQCCHUK2
-#EXTINF:0,  CHUKY EL MUNHECO DIABOLICO (TERROR)
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",CHUKY EL MUNHECO DIABOLICO (TERROR)
 #EXTVLCOPT:network-caching=1000
 http://bit.ly/MRAQCCHUCK
-#EXTINF:0,  COLOSSAL (2016)
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",COLOSSAL (2016)
 #EXTVLCOPT:network-caching=1000
 http://bit.ly/2w5zZIw
-#EXTINF:0,  MI VIDA A LOS 17
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",MI VIDA A LOS 17
 #EXTVLCOPT:network-caching=1000
 http://bit.ly/2v16m9z
-#EXTINF:0,  SAHARA (2017)
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",SAHARA (2017)
 #EXTVLCOPT:network-caching=1000
 http://bit.ly/SAHARAMOVIE
-#EXTINF:0,  SPECTRE
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",SPECTRE
 #EXTVLCOPT:network-caching=1000
 https://goo.gl/3KGMLf
-#EXTINF:0,  BLOOD IN BLOOD OUT/ VATOS LACOS
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",VATOS LACOS
 #EXTVLCOPT:network-caching=1000
 http://www.deadlyblogger.com/NewRelease/blood.mp4
-#EXTINF:0,  UN VUELO DE LOCURA
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",UN VUELO DE LOCURA
 #EXTVLCOPT:network-caching=1000
 http://media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
-#EXTINF:0, Terror en la Oscuridad CAST | .
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Terror en la Oscuridad
 #EXTVLCOPT:network-caching=1000
 http://srregio.xyz/insidecast
-#EXTINF:0,LOS POWER RANGERS www.achoAPPS.com
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",LOS POWER RANGERS
 #EXTVLCOPT:network-caching=1000
 http://bit.ly/2gbHp2p?JoCaRoMovie
-#EXTINF:0,UN PERDEDOR SIN SUERTE www.achoAPPS.com
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",UN PERDEDOR SIN SUERTE
 #EXTVLCOPT:network-caching=1000
 http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?disco
-#EXTINF:0,Sand Castle www.achoAPPS.com
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Sand Castle
 #EXTVLCOPT:network-caching=1000
 http://cecegeek@goo.gl/FDyHpL
-#EXTINF:0,Sandy Wexler www.achoAPPS.com
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Sandy Wexler
 #EXTVLCOPT:network-caching=1000
 http://cecegeek@goo.gl/kyH56Z
-#EXTINF:0,Prometeus 2012 HD
+#EXTINF:-1 tvg-logo=""group-title="PELÍCULAS",Prometeus 2012
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 #EXTINF:-1 tvg-logo="https://djs.sk/wp-content/uploads/2022/09/303399177_436399825137950_8037438237798286434_n-1024x600.jpg"group-title="",Dance Megamix Septiembre 2022 mezclado por Dj Miray
